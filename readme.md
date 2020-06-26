@@ -2,11 +2,12 @@
 > We outfitted a fitness bike with Arduino and several sensors enabling the user to play video games while working out.
 
 _Prerequisites_:
-* 32u4 based Arduino (or DUE/Zero)
+* 32u4 based Arduino (or DUE/Zero) for native HID input
 * FreePie + vJoy in order to emulate game input  
 * Hall Sensor (in order to track RPM of the crank)
 * Capacitive Sensors for brake levers
 * Compass Sensor or Android Smartphone to track the direction of handlebars
+* Optionally an ESP8266 or RF moduel to send data wirelessly
 
 Our project got featured in a major Danish newspaper:
 https://politiken.dk/indland/uddannelse/studieliv/art5609120/%C2%BBK%C3%B8r-160-kmt.-mens-du-sidder-p%C3%A5-din-kondicykel%C2%AB
