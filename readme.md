@@ -2,7 +2,7 @@
 > We outfitted a fitness bike with Arduino and several sensors enabling the user to play video games while working out.
 
 _Prerequisites_:
-* Arduino Leo
+* 32u4 based Arduino (or DUE/Zero)
 * FreePie + vJoy in order to emulate game input  
 * Hall Sensor (in order to track RPM of the crank)
 * Capacitive Sensors for brake levers
